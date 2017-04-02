@@ -10,7 +10,7 @@ la complexité en terme d'opération élémentaire est énorme.
 L'implémentation est faite en C avec la bibliothèque FLINT.
 Les commentaires sont en français.
 
-Le code C FLINT dispose d'une FFT dans les corps premiers (Fp) optimisée, et 
+Mon implémentation dispose d'une FFT dans les corps premiers (Fp) optimisée, et 
 d'un type de polynôme multivarié dédié à la composition modulaire. Ce type 
 est reconnaissable à l'ajout de "_multi" dans le nom des types standards de 
 FLINT.
